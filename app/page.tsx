@@ -3,8 +3,8 @@ import {Button} from "@/components/ui/button";
 
 const Home = () => {
     return (
-        <div className ="felx justify-center items-center h-screen">
-            <Button>Click me</Button>
+        <div className ="felx min-h-screen home-wrapper">
+            <Button>Home</Button>
         </div>
     )
 }
